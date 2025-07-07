@@ -48,13 +48,6 @@ The CNN used consists of:
 - **Accuracy Achieved**: ~99% on training data
 - **Loss Curve** and **Accuracy Curve** are plotted to monitor overfitting
 
-## 🖼️ Sample Results
-
-![Accuracy Plot](path/to/accuracy_plot.png)
-![Loss Plot](path/to/loss_plot.png)
-
-> Replace these with actual paths to the plots if included in the repo.
-
 ## 📦 Installation
 
 ```bash
